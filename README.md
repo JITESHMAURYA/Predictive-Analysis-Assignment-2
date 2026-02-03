@@ -10,7 +10,7 @@ The feature $x$ (NO2 levels) is transformed into a new variable $z$ using the fo
 
 $$z = x + a_r \sin(b_r x)$$
 
-**Parameters for Roll Number `102317090`:**
+**Parameters for Roll Number `102317244`:**
 * **$a_r$**: $0.05$
 * **$b_r$**: $0.3$
 
@@ -42,6 +42,6 @@ The script calculates and outputs the optimal parameters required for submission
 * **c** : 0.03181652715241613
 
 ## Author
-* **Name:** Raj
-* **Roll Number:** 102317090
+* **Name:** Jitesh Maurya
+* **Roll Number:** 102317244
 * **University:** Thapar Institute of Engineering and Technology

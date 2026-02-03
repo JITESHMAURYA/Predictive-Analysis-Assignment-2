@@ -1,4 +1,4 @@
-# Assignment 3: PDF Estimation with Non-Linear Model
+# Assignment 2: PDF Estimation with Non-Linear Model
 
 ## Project Overview
 This project performs statistical analysis and parameter estimation on India's Air Quality data. The objective is to transform the `NO2` feature using a unique non-linear model derived from a university roll number and then fit a probability density function (PDF) to the transformed data using optimization techniques.
